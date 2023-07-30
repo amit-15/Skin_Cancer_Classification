@@ -1,0 +1,1 @@
+from Skin_Cancer_Classification.entity.config_entity import (DataIngestionConfig)

@@ -1,0 +1,15 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://drive.google.com/file/d/1Biac6tsA50gZYWUrglIs_T35Fw9iSOgb/view?usp=sharing
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
+
+# data_ingestion:
+#   root_dir: artifacts/data_ingestion
+#   source_URL: https://github.com/amit-15/Datasets/raw/main/skin_cancer_images.zip
+#   local_data_file: artifacts/data_ingestion/data.zip
+#   unzip_dir: artifacts/data_ingestion
+#https://drive.google.com/file/d/1Biac6tsA50gZYWUrglIs_T35Fw9iSOgb/view?usp=sharing
