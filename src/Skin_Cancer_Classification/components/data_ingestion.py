@@ -3,7 +3,7 @@ import urllib.request as request
 import zipfile
 from Skin_Cancer_Classification import logger
 from Skin_Cancer_Classification.utils.common import get_size
-from Skin_Cancer_Classification.entity import DataIngestionConfig
+from Skin_Cancer_Classification.entity.config_entity import DataIngestionConfig
 from pathlib import Path
 
 class DataIngestion:
